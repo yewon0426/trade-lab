@@ -1,0 +1,6 @@
+{
+  "name": "TRADE LAB — 국제 분업과 무역",
+  "description": "2022 개정 교육과정 고등학교 통합사회2 국제 분업과 무역 단원을 위한 전자칠판 최적화 인터랙티브 웹 교과서",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
